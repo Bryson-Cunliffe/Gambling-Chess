@@ -1,6 +1,16 @@
 #include "Chess.h"
 
+void checkMove(){
+    //Do this through 2D array, how is table formatted?
+}
 
+void promotion(){
+    //Review how pieces are treated, how to change it
+}
+
+void checkMate(){
+    //Same as check move, check how table is formatted and how to use it
+}
 
     /* 
     * Positive = White
